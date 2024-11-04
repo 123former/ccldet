@@ -1,5 +1,5 @@
 ## Acknowledgement
-This repo is based on the open-source mmrotate project that is contributed by researchers and engineers from various colleges and companies. We appreciate all the contributors who implement their methods or add new features of mmfewshot.
+This repo is based on the open-source mmrotate project that is contributed by researchers and engineers from various colleges and companies. We appreciate all the contributors who implement their methods or add new features of mmrotate.
 ## Citation
 
 ```
